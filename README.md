@@ -6,8 +6,7 @@ Industrial Engineering & Management, Technion, class of 2026.
 
 I like the part of a project before anyone writes code: figuring out what the real question is,
 and what answer would actually change a decision. Then I dig into the data, and sometimes I end
-up building the tool myself. I'm looking for my first role in data & AI advisory, business
-analysis, consulting or strategy & operations.
+up building the tool myself. 
 
 Some things I've worked on:
 
