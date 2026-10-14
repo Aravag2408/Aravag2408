@@ -10,6 +10,13 @@ up building the tool myself.
 
 Some things I've worked on:
 
+**SugarBuddy** · [live app](https://sugarbuddy.netlify.app) · [case study](https://aravag2408.github.io/work/sugarbuddy.html)  
+A full-stack app for teens with Type 1 diabetes and their families: live glucose alerts, a short
+check-in with the teen, an AI agent that works out what probably happened, and a community forum.
+I wrote most of it (417 of the team's 532 commits) and ran it on Azure. When the budget ran out,
+I moved it myself to a free setup (Netlify, a free server and OpenRouter), so it's still live.
+The code is private.
+
 **AchvaLens** · [live app](https://achvalens-b7f0htgxhyc7fsbt.israelcentral-01.azurewebsites.net/app)  
 Our team built this for Achva LGBT, a nonprofit. You paste in an academic text and it marks
 LGBTQ+ terminology as fine, worth reconsidering, or harmful. The hardest category was the middle
@@ -23,7 +30,7 @@ patients' details reached the model, and 6 showed up in replies. I traced it to 
 check and mapped the fixes to GDPR.
 
 **[SugarBuddy Agent](https://github.com/Aravag2408/SugerBuddy_Agent)** · [live demo](https://suger-buddy-agent.vercel.app)  
-For parents of teens with Type 1 diabetes. When a glucose reading looks wrong, the agent asks
+Where SugarBuddy started. When a glucose reading looks wrong, the agent asks
 the teen a few quick questions and gives the parent a calm summary of what probably happened,
 instead of an alarm.
 
