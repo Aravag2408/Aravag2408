@@ -34,6 +34,14 @@ Where SugarBuddy started. When a glucose reading looks wrong, the agent asks
 the teen a few quick questions and gives the parent a calm summary of what probably happened,
 instead of an alarm.
 
+**SugarBuddy and Beyond** (NLP course, private) · [case study](https://aravag2408.github.io/work/sugarbuddy-and-beyond.html)  
+Turned SugarBuddy's check-in into a synthetic benchmark dataset for an NLP course: CGM readings
+and a teen's free-text note, labeled with the real cause from a 94-cause taxonomy I grounded in
+the literature. All 5 tabular learners passed MulTaBench's curation pipeline cleanly. I then
+generalized the method to 9 more pediatric conditions, reaching the course's top tier with 5 of
+10 datasets passing — and checked all 145 literature citations behind them one by one before
+submitting.
+
 **State, Not Trait** (research, private)  
 Do people hold steady values, or does it depend on how you ask? I analyzed 42 players of a
 democracy simulation game, and the answer was mostly "it depends". Along the way I built an LLM
